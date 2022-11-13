@@ -1,0 +1,3 @@
+/home/aag/CLionProjects/PicomConfig/cmake-build-debug/CMakeFiles/PicomConfig.dir
+/home/aag/CLionProjects/PicomConfig/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aag/CLionProjects/PicomConfig/cmake-build-debug/CMakeFiles/rebuild_cache.dir
